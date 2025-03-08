@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickSaveApp</string>
+    <string name="edit_name">Type your name</string>
+    <string name="edit_order">Type your order</string>
+    <string name="edit_location">Type your location</string>
+    <string name="app_button">Add</string>
+    <string name="text_result">Order will display here</string>
+</resources>
